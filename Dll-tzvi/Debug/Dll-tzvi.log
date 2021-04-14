@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generating Code...
+     Creating library C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Debug\Dll-tzvi.lib and object C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Debug\Dll-tzvi.exp
+  Dll-tzvi.vcxproj -> C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Debug\Dll-tzvi.dll

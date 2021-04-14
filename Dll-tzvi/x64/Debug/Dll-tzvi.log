@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Dll-tzvi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  anomaly_detection_util.cpp
+  dllmain.cpp
+  timeseries.cpp
+C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Dll-tzvi\timeseries.h(66,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Dll-tzvi\timeseries.h(92,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\miche\Desktop\university\cpp\Dll-tzvi\Dll-tzvi\timeseries.h(104,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+     Creating library C:\Users\miche\Desktop\university\cpp\Dll-tzvi\x64\Debug\Dll-fg.lib and object C:\Users\miche\Desktop\university\cpp\Dll-tzvi\x64\Debug\Dll-fg.exp
+  Dll-tzvi.vcxproj -> C:\Users\miche\Desktop\university\cpp\Dll-tzvi\x64\Debug\Dll-fg.dll
